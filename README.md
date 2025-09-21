@@ -37,7 +37,7 @@
 <br><br>
 
 <!-- Animated Discord Widget -->
-<img src="https://lanyard.cnrad.dev/api/999276298432163891?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Status" width="350"/>
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Status" width="350"/>
 
 <br><br>
 
