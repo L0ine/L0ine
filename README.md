@@ -14,22 +14,11 @@
 💻 VibeCoder
 ```
 
-**loine@arch:~$ github-stats --live**
+**loine@arch:~$ stats --github --lastfm**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l0ine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
-**loine@arch:~$ music --lastfm**
-
-<div align="center">
-  <details>
-    <summary>🎵 Currently vibing to</summary>
-    <br>
-    <img src="https://lastfm-recently-played.vercel.app/api?user=Loine15&count=5&width=300" alt="Last.fm" width="350"/>
-  </details>
+  <img height="180em" src="https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME&count=5&width=300" alt="Last.fm Recent Tracks"/>
 </div>
 
 ---
@@ -51,7 +40,9 @@
 **loine@arch:~$ status --current**
 ```bash
 🔥 Working on: Cool projects
-🌱 Learning: All about Vibe Code
+🌱 Learning: Rust & Web3  
+💬 Ask me about: JavaScript, Python
+⚡ Fun fact: console.log() is my best friend
 ```
 
 ---
