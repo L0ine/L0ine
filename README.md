@@ -13,13 +13,10 @@
 
 **💻 VibeCoder from Germany 🇩🇪**
 
-*Passionate developer who loves creating cool stuff and vibing to good music while coding*  
-*Arch Linux enthusiast who believes in clean code and great UX*
+*Passionate developer who loves creating cool stuff and vibing to good music*  
+*I use Arch btw*
 
-🔥 Working on: Cool projects  
-🌱 Learning: Rust & Web3  
-💬 Ask me about: JavaScript, Python  
-⚡ Fun fact: console.log() is my best friend  
+🔥 Working on: random projects  
 
 </div>
 
@@ -38,23 +35,15 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/loine">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://twitter.com/loine">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-</a>
-<a href="https://instagram.com/loine">
+
+<a href="https://instagram.com/loineeeeeee">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 <a href="https://discord.gg/loine">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
 </a>
-<a href="mailto:loine@example.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
 
-**LinkedIn • Twitter • Instagram • Discord • Email**
+  Instagram • Discord 
 
 </div>
 
@@ -67,7 +56,7 @@
 ```bash
 🏠 Location: Germany
 🎧 Music: Always vibing to good music
-🐧 OS: Arch Linux (btw I use arch)
+🐧 OS: Arch Linux 
 🚀 Passion: VibeCoder sharing the journey
 ```
 
