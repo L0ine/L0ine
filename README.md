@@ -13,7 +13,7 @@
 
 **💻 VibeCoder from Germany 🇩🇪**
 
-*Passionate developer who loves creating cool stuff and vibing to good music*  
+*Dude who loves creating cool stuff and vibing to good music*  
 *I use Arch btw*
 
 🔥 Working on: random projects  
