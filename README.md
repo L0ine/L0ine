@@ -1,214 +1,118 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile ASCII Cat</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 40px;
-            font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Roboto Mono', 'Source Code Pro', monospace;
-            background: #0d1117;
-            color: #c9d1d9;
-            line-height: 1.4;
-        }
-        
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        
-        .ascii-art {
-            font-size: 14px;
-            white-space: pre;
-            color: #58a6ff;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        
-        .header {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        
-        .name {
-            font-size: 28px;
-            font-weight: bold;
-            color: #f0f6fc;
-            margin-bottom: 10px;
-        }
-        
-        .subtitle {
-            font-size: 16px;
-            color: #7c3aed;
-            margin-bottom: 20px;
-        }
-        
-        .info-section {
-            margin: 20px 0;
-            padding: 15px;
-            border: 1px solid #30363d;
-            border-radius: 6px;
-            background: #161b22;
-        }
-        
-        .info-title {
-            color: #58a6ff;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-top: 10px;
-        }
-        
-        .tech-item {
-            background: #21262d;
-            color: #f0f6fc;
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 12px;
-            border: 1px solid #30363d;
-        }
-        
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 20px;
-        }
-        
-        .social-link {
-            color: #58a6ff;
-            text-decoration: none;
-            padding: 8px 12px;
-            border: 1px solid #30363d;
-            border-radius: 6px;
-            background: #21262d;
-            transition: all 0.2s;
-        }
-        
-        .social-link:hover {
-            background: #30363d;
-            color: #f0f6fc;
-        }
-        
-        .stats {
-            text-align: center;
-            margin: 20px 0;
-        }
-        
-        .cat-speech {
-            background: #1f2328;
-            border: 1px solid #30363d;
-            border-radius: 6px;
-            padding: 15px;
-            margin: 20px 0;
-            position: relative;
-        }
-        
-        .cat-speech:before {
-            content: '';
-            position: absolute;
-            bottom: -8px;
-            left: 50px;
-            width: 0;
-            height: 0;
-            border-left: 8px solid transparent;
-            border-right: 8px solid transparent;
-            border-top: 8px solid #30363d;
-        }
-        
-        .footer {
-            text-align: center;
-            margin-top: 30px;
-            color: #8b949e;
-            font-size: 12px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="ascii-art">
+<div align="center">
+
+```
              /\_/\  
             ( o.o ) 
              > ^ <  
-           /       \
-          /  meow!  \
-         /_________/
-        </div>
-        
-        <div class="header">
-            <div class="name">YOUR NAME</div>
-            <div class="subtitle">~ discord bot developer & night owl coder ~</div>
-        </div>
-        
-        <div class="cat-speech">
-            <strong>💭 currently thinking:</strong><br>
-            "why do i code better at 3am?" <br>
-            "is it a bug or a feature?" <br>
-            "more coffee = more code" ☕
-        </div>
-        
-        <div class="info-section">
-            <div class="info-title">🚀 what i'm working on:</div>
-            → discord bots that don't crash (hopefully)<br>
-            → web apps with fancy animations<br>
-            → learning new frameworks to confuse myself<br>
-            → debugging other people's spaghetti code
-        </div>
-        
-        <div class="info-section">
-            <div class="info-title">💻 tech stack:</div>
-            <div class="tech-stack">
-                <span class="tech-item">JavaScript</span>
-                <span class="tech-item">TypeScript</span>
-                <span class="tech-item">Python</span>
-                <span class="tech-item">Node.js</span>
-                <span class="tech-item">React</span>
-                <span class="tech-item">Discord.js</span>
-                <span class="tech-item">MongoDB</span>
-                <span class="tech-item">Docker</span>
-            </div>
-        </div>
-        
-        <div class="info-section">
-            <div class="info-title">📊 github stats:</div>
-            <div class="stats">
-                <div>🔥 current streak: keeping it alive</div>
-                <div>⭐ repositories: quality > quantity</div>
-                <div>🌙 most active: 11pm - 4am</div>
-                <div>☕ commits per coffee: approximately 2.5</div>
-            </div>
-        </div>
-        
-        <div class="info-section">
-            <div class="info-title">🎯 fun facts:</div>
-            → i debug with console.log (don't judge)<br>
-            → my code comments are mostly "// wtf does this do"<br>
-            → stackoverflow is my second home<br>
-            → i have 47 unfinished projects
-        </div>
-        
-        <div class="social-links">
-            <a href="https://discord.gg/YOUR_INVITE" class="social-link">Discord</a>
-            <a href="https://github.com/YOUR_USERNAME" class="social-link">GitHub</a>
-            <a href="https://twitter.com/YOUR_HANDLE" class="social-link">Twitter</a>
-        </div>
-        
-        <div class="footer">
-            <div class="ascii-art">
-    /\_/\    /\_/\    /\_/\
-   ( o.o )  ( ^.^ )  ( -.-)
-    > ^ <    > ^ <    > ^ <
-            </div>
-            made with ❤️ and way too much caffeine<br>
-            <em>"code is poetry, bugs are modern art"</em>
-        </div>
-    </div>
-</body>
-</html>
+```
+
+# hey, it's **YOUR NAME** 🐱
+
+### *discord bot developer & professional night owl*
+
+```
+💭 cat thoughts: "why do humans code at 3am like us cats hunt?"
+```
+
+</div>
+
+---
+
+## 🚀 what i'm working on:
+
+```typescript
+const currentProjects = {
+    discordBots: "making servers less boring",
+    webApps: "pretty interfaces that actually work",
+    learning: "whatever breaks my brain today",
+    debugging: "other people's spaghetti code"
+};
+```
+
+---
+
+## 💻 tech stack:
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 github stats:
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎯 cat facts about me:
+
+```
+🌙 most active hours: 11pm - 4am (like a real cat)
+☕ coffee per day: yes
+🐛 debugging method: console.log everywhere
+📚 stack overflow visits: don't judge me
+🎮 breaks: gaming & anime
+💭 unfinished projects: 47 and counting
+```
+
+---
+
+## 📦 featured repos:
+
+<div align="center">
+
+[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_BOT_REPO&theme=tokyonight)](https://github.com/YOUR_USERNAME/YOUR_BOT_REPO)
+[![Web App](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_WEB_REPO&theme=tokyonight)](https://github.com/YOUR_USERNAME/YOUR_WEB_REPO)
+
+</div>
+
+---
+
+## 🤝 connect with this cat:
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+
+*dm me if you want to talk about code, cats, or why javascript is weird* 💬
+
+</div>
+
+---
+
+<div align="center">
+
+```
+    /\_/\      /\_/\      /\_/\
+   ( o.o )    ( ^.^ )    ( -.-)
+    > ^ <      > ^ <      > ^ <
+   
+  sleeping   coding    debugging
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+*made with ❤️ and excessive amounts of tuna* 🐟
+
+**"in a world full of dogs, be a cat who codes"** 
+
+</div>
