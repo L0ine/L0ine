@@ -39,7 +39,7 @@
 <a href="https://instagram.com/loineeeeeee">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
-<a href="https://discord.gg/loine">
+<a href="https://discord.gg/UP3PRuHZBe">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
 </a>
 
