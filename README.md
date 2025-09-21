@@ -1,16 +1,16 @@
+<div align="center">
+
 ```
-┌────────────────────────────────────────────────────────────────────────────────┐
-│  ██╗      ██████╗ ██╗███╗   ██╗███████╗    ╔═══════╗                           │
-│  ██║     ██╔═══██╗██║████╗  ██║██╔════╝   ╔╝   A   ╚╗  btw i use arch          │
-│  ██║     ██║   ██║██║██╔██╗ ██║█████╗     ║  /\_/\  ║                          │
-│  ██║     ██║   ██║██║██║╚██╗██║██╔══╝     ╚╗  ___  ╔╝                          │
-│  ███████╗╚██████╔╝██║██║ ╚████║███████╗    ╚═══════╝                           │
-│  ╚══════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝                                       │
-└────────────────────────────────────────────────────────────────────────────────┘
+██╗      ██████╗ ██╗███╗   ██╗███████╗
+██║     ██╔═══██╗██║████╗  ██║██╔════╝
+██║     ██║   ██║██║██╔██╗ ██║█████╗  
+██║     ██║   ██║██║██║╚██╗██║██╔══╝  
+███████╗╚██████╔╝██║██║ ╚████║███████╗
+╚══════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
-<div align="center">
-  
+<img src="https://lanyard.cnrad.dev/api/999276298432163891?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Status" width="280"/>
+
 **💻 VibeCoder**
 
 🔥 Working on: Cool projects  
@@ -52,13 +52,7 @@
 
 </div>
 
----
 
-## 🎮 Discord Status
-
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/999276298432163891?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Status" width="350"/>
-</div>
 
 ---
 
