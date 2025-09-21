@@ -61,9 +61,12 @@
 ```
 
 ---
+```bash
+┌──(user@arch-linux)-[~]
+└─$ echo "Thanks for visiting my profile! 🚀"
+Thanks for visiting my profile! 🚀
 
-<div align="center">
-  
-**Thanks for stopping by! ⭐ my repos if you like them! 🚀**
-
-</div>
+┌──(user@arch-linux)-[~]  
+└─$ exit
+Connection closed by foreign host.
+```
