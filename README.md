@@ -8,8 +8,3 @@
 ███████╗╚██████╔╝██║██║ ╚████║███████╗
 ╚══════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
-
-
-
-*Dude who loves creating cool stuff and vibing to good music*  
-*I use Arch btw*
